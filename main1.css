@@ -1,0 +1,8 @@
+.key.operator span {
+    font-size: 7rem;
+    color: blue;
+}
+.key.operator {
+    font-size: 1rem;
+    color: red;
+}
